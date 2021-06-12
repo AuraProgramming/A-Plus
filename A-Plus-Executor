@@ -1,0 +1,4 @@
+@echo off
+set /p file2run=What file would you like to run?
+FOR /F "tokens=*" %%A IN ('%file2run%') DO (
+    
