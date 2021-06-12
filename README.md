@@ -1,2 +1,2 @@
-# A-Plus
+# A+
 A Custom Programming Language
