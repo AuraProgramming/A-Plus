@@ -12,8 +12,7 @@ for /f "tokens=1" %%a in (%~f1) do (
 :case-cow
   echo moo
   goto :eof
-	
-REM available commands end here
+
 	
 :command_default
   echo Non recognisable command
