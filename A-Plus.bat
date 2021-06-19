@@ -1,7 +1,4 @@
-@echo off
-
 if not exist "%~f1" (
-  echo Command file not found.
   exit
 )
 
