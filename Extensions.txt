@@ -1,0 +1,3 @@
+.apex - A+ Executable
+.apd - A+ Documentation
+.axe - A+ Compiled Executeable
